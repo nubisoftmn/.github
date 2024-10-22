@@ -1,7 +1,7 @@
 
 <p align= "center">
-  <img height= "200" src="https://ssl-check-eta.vercel.app/?vercelToolbarCode=TrpG2TZsIL16ogB&web_url=nubisoft.mn" />
-  <img height= "200" src="https://ssl-check-eta.vercel.app/?vercelToolbarCode=TrpG2TZsIL16ogB&web_url=wizar.nubisoft.mn" />
-  <img height= "200" src="https://ssl-check-eta.vercel.app/?vercelToolbarCode=TrpG2TZsIL16ogB&web_url=tibi.mn" />
-  <img height= "200" src="https://ssl-check-eta.vercel.app/?vercelToolbarCode=TrpG2TZsIL16ogB&web_url=bonum.mn" />
+  <img height= "200" src="https://ssl.nubisoft.mn?web_url=nubisoft.mn" />
+  <img height= "200" src="https://ssl.nubisoft.mn?web_url=wizar.nubisoft.mn" />
+  <img height= "200" src="https://ssl.nubisoft.mn?web_url=tibi.mn" />
+  <img height= "200" src="https://ssl.nubisoft.mn?web_url=bonum.mn" />
 </p>
